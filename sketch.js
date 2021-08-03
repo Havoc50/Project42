@@ -9,12 +9,12 @@ var drops = [];
 var maxDrops = 150;
 
 function preload(){
-   umbrellaImage = loadImage("walkingFrame/walking1.png");
+   umbrellaImage = loadImage("walking1.png");
 
-   lightning1 = loadImage("thunderbolt/1.png");
-   lightning2 = loadImage("thunderbolt/2.png");
-   lightning3 = loadImage("thunderbolt/3.png");
-   lightning4 = loadImage("thunderbolt/4.png");
+   lightning1 = loadImage("1.png");
+   lightning2 = loadImage("2.png");
+   lightning3 = loadImage("3.png");
+   lightning4 = loadImage("4.png");
 }
 
 function setup(){
